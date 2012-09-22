@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background:#252525;}
+
+h1{color:#FF0000;
+     text-align:center;	
+}
+
+p{text-align:justify;}
+
+ul{font-family:Verdana, Geneva, sans-serif;
+   font-weight:bold;
+}
+
+div{border:5px solid black;
+    padding:1em;
+}
+
+#test{
+	background:blue;
+	border:5px solid red;
+	color:red;
+	margin:1em;
+	padding:5em;
+}
+
+div,p{
+	   border: 2px solid black;
+}
+
+.column{
+	float: right;
+	width:25%;	
+}
+
+#aftercolumn{
+	     background:yellow;
+		 clear:both;
+}

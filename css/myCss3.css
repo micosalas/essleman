@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-size:16px;
+	color:#000;
+
+}
+
+h1,h2,h4,h5,h6,h9{text-align:center;
+
+}
+
+img{background-image:url(../../../../../cat.gif)

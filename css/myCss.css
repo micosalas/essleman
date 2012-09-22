@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+p{color:#0F0;
+background-color:#C0F;
+font:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h1{color:#CC33CC;
+font:"Trebuchet MS", Arial, Helvetica, sans-serif;}
+h2{color:rgb(102,102,204);
+   font-size:17;
+}
+h4{color:#778899;
+   font-size:14;
+}
